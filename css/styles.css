@@ -1,0 +1,22 @@
+a{
+  text-decoration:none;
+}
+
+ol li a{
+  color:#234567;
+}
+
+nav{
+  background-color: rgb(220, 20, 60);
+  font-size: 1.25em;
+  font-family: "Arial", sans-serif;
+}
+
+.go-to-nav{
+  color:rgb(165, 42, 42);
+  font-size: 1.65em;
+}
+
+article{
+  font-family: 'Nunito', sans-serif;
+}
